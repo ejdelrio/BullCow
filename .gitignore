@@ -50,6 +50,7 @@
 
 # Clion resources
 .idea/*
+cmake-build-debug/*
 
 # Precompiled Assets
 SourceArt/**/*.png
